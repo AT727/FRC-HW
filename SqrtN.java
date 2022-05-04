@@ -18,5 +18,5 @@ class sqrtN{
 }
 
 
-//Very bad program that crashes program if number isn't a perfect square
+//Very bad program that crashes computer if number isn't a perfect square
 
